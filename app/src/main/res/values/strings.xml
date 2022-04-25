@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ETTask1</string>
+    <string name="add_option">Add Option</string>
+    <string name="delete">Delete</string>
+</resources>
